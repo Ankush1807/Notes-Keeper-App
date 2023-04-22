@@ -1,0 +1,26 @@
+<cust_tree>
+    <cust>
+        <cid>A</cid>
+        <firstname>Alex</firstname>
+        <lastname>Andre</lastname>
+        <birthday>20001122</birthday>
+        <status>L</status>
+        <orders>
+    </cust>
+    <cust>
+        <cid>B</cid>
+        <firstname> Bernardo</firstname>
+        <lastname>Batista</lastname>
+        <birthday>19830727</birthday>
+        <status>I</status>
+        <orders>
+    </cust>
+    <cust>
+        <cid>C</cid>
+        <firstname>Christina</firstname>
+        <lastname>Camino</lastname>
+        <birthday>19751225</birthday>
+        <status>N</status>
+        <orders>
+    </cust>
+</cust_tree>
